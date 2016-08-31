@@ -1,0 +1,20 @@
+{
+  "name": "top-down-ccf",
+  "version": "1.0.0",
+  "description": "example for rendering allen connectivity data in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freeman-lab",
+  "license": "MIT",
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "dom-css": "^2.1.0",
+    "load-svg": "^1.0.0",
+    "mouse-position": "^2.0.1"
+  },
+  "devDependencies": {
+    "budo": "^9.0.0"
+  }
+}
