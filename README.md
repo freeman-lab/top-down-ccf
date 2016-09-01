@@ -1,8 +1,8 @@
 # top-down-ccf
 
-example of rendering allen connectivity data in the browser
+Example of rendering allen connectivity images and regions in the browser.
 
-to test it, clone this folder, then call
+To test it, clone this folder, then call
 
 ```
 npm install
