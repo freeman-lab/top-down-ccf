@@ -8,3 +8,5 @@ to test it, clone this folder, then call
 npm install
 budo index.js
 ```
+
+![gif](demo.gif)
